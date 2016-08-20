@@ -2,8 +2,6 @@
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
-To get started, check out the repository, inspect the code,
-
 ### Getting started
 
 Some useful tips to help you get started:
@@ -41,7 +39,7 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 * <a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching.html">HTTP caching</a>
 
 ### Customization with Bootstrap
-The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstrap</a> framework. All custom styles are in `dist/css/portfolio.css` in the portfolio repo.
+The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstrap</a> framework.
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
@@ -61,5 +59,4 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://www.cullywright.com/">http://www.cullywright.com/</a>
 * <a href="http://yourjustlucky.com/">http://yourjustlucky.com/</a>
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
-* <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
-* <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+* <a href="http://www.84colors.com/work.html">http://www.84colors.com/work.html</a>
